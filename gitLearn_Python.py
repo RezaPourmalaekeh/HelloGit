@@ -6,3 +6,6 @@ for item in alist:
 
 atuple = (5, -10, 35)
 print(type(atuple))
+
+def HelloWorld():
+    print("Come On Bitch\n")

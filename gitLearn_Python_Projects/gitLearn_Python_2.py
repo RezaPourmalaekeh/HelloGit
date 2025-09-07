@@ -8,3 +8,5 @@ adict = {
     2 : "two",
     3 : "three"
 }
+
+blist  = [5, 8, -100]

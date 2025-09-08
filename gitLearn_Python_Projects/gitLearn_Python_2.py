@@ -13,3 +13,11 @@ blist  = [5, 8, -100]
 
 print("master extra commit 2")
 versionedTuple = (5, 15, 20, -65536)
+
+
+def Greating():
+    print("Hello from grating function in versioned python file")
+
+
+Greating()
+print("Rezos with same email use greating function")

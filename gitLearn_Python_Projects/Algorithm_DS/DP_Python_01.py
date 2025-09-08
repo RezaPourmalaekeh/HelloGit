@@ -3,6 +3,3 @@
 #* what is recerscive steps? what is our Dynamic Space?
 
 #test for .gitignore
-
-
-#fdsljfldfjldsjfljfdsjfdjfjs

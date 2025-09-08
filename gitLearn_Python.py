@@ -19,3 +19,6 @@ unversionedDict = {
 
 def HelloWorld():
     print("Hello World\n")
+
+HelloWorld()
+print("Function used!\n")
